@@ -21,7 +21,7 @@ imageListA[15] = "images/drawing/thumbs/artwork_16.jpg";
 imageListA[16] = "images/drawing/thumbs/artwork_17.jpg";
 
 
-var imageListB = new Array():
+var imageListB = new Array();
 imageListB[0] = "images/oil/thumbs/artwork_1.jpg";
 imageListB[1] = "images/oil/thumbs/artwork_2.jpg";
 imageListB[2] = "images/oil/thumbs/artwork_3.jpg";
